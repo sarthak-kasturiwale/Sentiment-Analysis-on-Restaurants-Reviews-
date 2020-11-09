@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-Restaurants-Reviews-
+     Natural language processing (NLP) is a subfield of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages.     In this project, we will try to analyse the sentiments of Reviewers using machine learning which will help in identifying whether a given review is a positive or negative.
